@@ -6,13 +6,13 @@ description: "Who shot ya"
 # Keywords/tags for you site.
 keywords: "photography, blog, photography-blog, photo-blog"
 # Your copyright message.
-copyright: "Copyright &copy; &year - WhoVisions LLC."
+copyright: "Copyright &copy; 2023 - WhoVisions LLC."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "WhoVisions"
 # 2nd heading/sub heading of the website.
-subheader: "Who you are and what you see are the same"
+subheader: "Photography"
 # A description/bio of the website.
 bio: "Who Shot Ya"
 social:
@@ -21,9 +21,9 @@ social:
   # Your Facebook username.
   facebook_username: ""
   # Your Instagram username.
-  instagram_username: ""
+  instagram_username: "https://www.instagram.com/whovisions"
   # GitHub username.
-  github_username: "tmeralus"
+  github_username: ""
   # Your email address.
   email: ""
 
